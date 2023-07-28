@@ -1,0 +1,38 @@
+.nav{
+    background-color: #FEFFD3;
+}
+
+.icons{
+    margin-left: 800px;
+}
+
+a, a:hover{
+    color: #EA6462;
+}
+
+
+.container{
+    display: flex;
+}
+
+.card{
+    margin: 30px;
+}
+
+.f-orange{
+    color: #EA6462!important;
+}
+
+.table{
+    background: #FEFFD3;
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+
+#servicos{
+    text-align: center;
+}
+
+#preco{
+    text-align: end;
+}
